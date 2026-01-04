@@ -33,7 +33,7 @@ We believe in:
 
 We welcome collaboration and feedback. Some of our repositories are public, and we encourage developers to share ideas, report bugs, or even contribute code when available.
 
-If you're interested in working with us or contributing to a specific project, feel free to [open an issue](https://github.com/nuvo-code) or reach out via email.
+If you're interested in working with us or contributing to a specific project, feel free to [open an issue](https://github.com/nuvocode) or reach out via email.
 
 ## 📬 Contact
 
