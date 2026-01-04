@@ -39,7 +39,7 @@ If you're interested in working with us or contributing to a specific project, f
 
 - 🌐 Website: [https://nuvocode.com](https://nuvocode.com)
 - 📧 Email: [info@nuvocode.com](mailto:info@nuvocode.com)
-- 🐙 GitHub: [https://github.com/nuvo-code](https://github.com/nuvo-code)
+- 🐙 GitHub: [https://github.com/nuvocode](https://github.com/nuvocode)
 
 ---
 
